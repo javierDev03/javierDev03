@@ -20,6 +20,6 @@
 </p>
 
 <h2>OS</h2>
-<img src="https://skillicons.dev/icons?i=ubuntu, windows" />
+<img src="https://skillicons.dev/icons?i=ubuntu,windows" />
 
 
