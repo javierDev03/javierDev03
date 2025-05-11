@@ -8,7 +8,7 @@
 
 - 💻 `Desarrollo web`
 - 🎓 `Estudiante de ingeniería informática`
-- 🏡 `Vivo en México`
+
 
 <h2>Habilidades</h2>
 <p align="left">
