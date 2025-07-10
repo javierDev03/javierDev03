@@ -13,7 +13,7 @@
 <h2>Habilidades</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,react,astro,js,laravel,tailwind,java,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=github,react,vue,js,laravel,tailwind,java,spring,mysql" />
   </a>
 </p>
 
