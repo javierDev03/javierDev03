@@ -1,17 +1,15 @@
-# Welcome, I'm Javier Cervantes 👋
+# Welcome, I'm Alvaro Capaceta 👋
 
+## About Me
 
-<div align="center" width="50">
-    
-</div>
+I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
 
-
-
-## Sobre mí :
-
-- 💻 `Desarrollo web`
-- 🎓 `Estudiante de ingeniería informática`
-
+🌿 Trying to become a better person every day.
+</br>
+⌛ I enjoy personal development and productivity.
+</br>
+🫂 I enjoy working in teams and collaborating with other people.
+</br>
 
 <h2>Habilidades</h2>
 <p align="left">
