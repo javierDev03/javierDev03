@@ -11,7 +11,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 🫂 I enjoy working in teams and collaborating with other people.
 </br>
 
-<h2>Habilidades</h2>
+<h2>Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,docker,laravel,tailwind,java,spring,mysql" />
