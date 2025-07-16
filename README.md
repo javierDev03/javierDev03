@@ -34,5 +34,9 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
   </a>
 </p>
 
+## Contact:
+
+[![Email](https://img.shields.io/badge/javicervel250@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ingcapadev@gmail.com)
+
 
 
