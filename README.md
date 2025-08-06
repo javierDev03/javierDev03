@@ -11,7 +11,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 🫂 I enjoy working in teams and collaborating with other people.
 </br>
 
-### 👨‍💻 Web Developer
+### 👨‍💻 Software Engineer
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=javierDev03&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 
