@@ -1,4 +1,3 @@
-![Header](./github-header-banner.png)
 
 
 # Welcome, I'm Javier Cervantes 👋
