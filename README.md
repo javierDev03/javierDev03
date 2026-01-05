@@ -32,7 +32,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 <h2>Skills</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,docker,php,filament,laravel,tailwind,java,spring,mysql" />
+    <img src="https://skillicons.dev/icons?i=react,vue,docker,php,linux,laravel,tailwind,java,spring,mysql" />
   </a>
 </p>
 
