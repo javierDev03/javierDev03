@@ -1,7 +1,9 @@
 # Javier Cervantes
 
-Laravel Developer building SaaS products and web applications.
+Building companies with code.
 
-Open source contributor.
+Laravel Developer · Founder · Open Source Contributor
 
-[javiercv.com]
+I design, build and ship my own products.
+
+→ javiercv.com
