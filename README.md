@@ -1,9 +1,9 @@
 # Javier Cervantes
 
-Laravel Developer building web applications, SaaS products, and open-source software.
+Laravel Developer building SaaS products and web applications.
 
-**Stack:** Laravel · PHP · Livewire · Vue.js · Tailwind CSS · MySQL
+`Laravel` `PHP` `Livewire` `React` `Tailwind CSS`
 
-Building. Learning. Contributing.
+Open source contributor.
 
-🌐 javiercv.com
+[javiercv.com]
