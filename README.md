@@ -17,12 +17,11 @@ Focused on clean architecture, maintainable systems and shipping reliable softwa
 - AI Integrations
 - Backend Engineering
 - Cloud Infrastructure
-- Developer Experience
 
-### Currently
+### GitHub Activity
 
-Building and designing software products from **architecture to production**.
+[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-**Portfolio** — https://javiercv.com
+[Portfolio](https://javiercv.com)
