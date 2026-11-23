@@ -18,9 +18,6 @@ Focused on clean architecture, maintainable systems and shipping reliable softwa
 - Backend Engineering
 - Cloud Infrastructure
 
-### GitHub Activity
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=TU_USERNAME&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
